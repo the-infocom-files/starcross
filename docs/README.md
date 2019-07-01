@@ -4,8 +4,6 @@
 
 Starcross was Infocom's 5th IF game and was first released in 1982.
 
-Further information on Zork III:
-
 Further information on Starcross:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Starcross_(video_game))
