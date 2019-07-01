@@ -18,15 +18,15 @@ The following source material is available for importation. Release 18 was selec
 
 These contain the available source material.
 
-| Release | Serial | Story File                  | Zarf Sources        | Jason Scott Sources        |
-| -------:|:------:|:---------------------------:|:-------------------:| -------------------------- |
-|      15 | 820901 |  [starcross-r15-s820901.z3] | [starcross-r15.zip] | [starcross-revision-15]    |
-|      18 | 830114 |  [starcross-r18-s830114.z3] | [starcross-r18.zip] | [starcross-final-revision] |
+| Release | Serial | Story File        | Zarf Sources | Jason Scott Sources |
+| -------:|:------:|:-----------------:|:------------:|:-------------------:|
+|      15 | 820901 |  [r15-s820901-z3] |    [r15-zip] |       [revision-15] |
+|      18 | 830114 |  [r18-s830114-z3] |    [r18-zip] |    [final-revision] |
 
-[starcross-r15-s820901.z3]: https://eblong.com/infocom/gamefiles/starcross-r15-s820901.z3
-[starcross-r15.zip]: https://eblong.com/infocom/sources/starcross-r15.zip
-[starcross-revision-15]: https://https://github.com/historicalsource/starcross/tree/f9f770f8c72a10c2f2ac4317c5e0e01e779c2f5b
+[r15-s820901-z3]: https://eblong.com/infocom/gamefiles/starcross-r15-s820901.z3
+[r15-zip]: https://eblong.com/infocom/sources/starcross-r15.zip
+[revision-15]: https://https://github.com/historicalsource/starcross/tree/f9f770f8c72a10c2f2ac4317c5e0e01e779c2f5b
 
-[starcross-r18-s830114.z3]: https://eblong.com/infocom/gamefiles/starcross-r18-s830114.z3
-[starcross-r18.zip]: https://eblong.com/infocom/sources/starcross-r18.zip
-[starcross-final-revision]: https://github.com/historicalsource/starcross/tree/d4f87d5e34b1d6ea7f88b336054a500331383b11
+[r18-s830114-z3]: https://eblong.com/infocom/gamefiles/starcross-r18-s830114.z3
+[r18-zip]: https://eblong.com/infocom/sources/starcross-r18.zip
+[final-revision]: https://github.com/historicalsource/starcross/tree/d4f87d5e34b1d6ea7f88b336054a500331383b11
