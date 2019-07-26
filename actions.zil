@@ -4146,7 +4146,7 @@ as the artifact positions itself to follow the course you have set." CR>
 		       <SETG WON-FLAG T>
 		       <TELL
 "The artifact, under your assured control, moves serenely toward Earth, where
-the knowledge it contains will immeasureably benefit mankind. Within a few
+the knowledge it contains will immeasurably benefit mankind. Within a few
 years, there could be human ships flying out to the stars, and all because of
 your daring and cunning...|
 |
