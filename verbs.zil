@@ -229,8 +229,8 @@ long description (fdesc or ldesc), otherwise will print short."
 	 <V-SCORE>
 	 <QUIT>>
 
-<ROUTINE V-QUIT ("OPTIONAL" (ASK? T) "AUX" SCOR)
-	 #DECL ((ASK?) <OR ATOM <PRIMTYPE LIST>> (SCOR) FIX)
+<ROUTINE V-QUIT ("OPTIONAL" (ASK? T))
+	 #DECL ((ASK?) <OR ATOM <PRIMTYPE LIST>>)
 	 <V-SCORE>
 	 <COND (<OR <AND .ASK?
 			 <TELL
@@ -377,7 +377,7 @@ you have been given another chance." CR>)>
 		 <KILL-INTERRUPTS>
 		 <RFATAL>>>
 
-<ROUTINE RANDOMIZE-OBJECTS ("AUX" (R <>) F N L)
+<ROUTINE RANDOMIZE-OBJECTS ("AUX" (R <>) F N)
 	 <SET N <FIRST? ,WINNER>>
 	 <REPEAT ()
 		 <SET F .N>
@@ -846,8 +846,7 @@ Copyright (c) 1982 Infocom, Inc.  All rights reserved.|">
 		      "." CR>)>
 	 <RFATAL>>
 
-<ROUTINE V-BOARD ("AUX" AV)
-	 #DECL ((AV) OBJECT)
+<ROUTINE V-BOARD ()
 	 <TELL "You are now in the " D ,PRSO "." CR>
 	 <MOVE ,WINNER ,PRSO>
 	 <APPLY <GETP ,PRSO ,P?ACTION> ,M-ENTER>
@@ -1175,8 +1174,8 @@ impulse is needed." CR>)
 
 <ROUTINE V-CLIMB-FOO () <V-CLIMB-UP ,P?UP T>>
 
-<ROUTINE V-CLIMB-UP ("OPTIONAL" (DIR ,P?UP) (OBJ <>) "AUX" X)
-	 #DECL ((DIR) FIX (OBJ) <OR ATOM FALSE> (X) TABLE)
+<ROUTINE V-CLIMB-UP ("OPTIONAL" (DIR ,P?UP) (OBJ <>))
+	 #DECL ((DIR) FIX (OBJ) <OR ATOM FALSE>)
 	 <COND (<GETPT ,HERE .DIR>
 		<DO-WALK .DIR>
 		<RTRUE>)
