@@ -1926,7 +1926,7 @@ with an airlock. The surface looks metallic." CR>)
 	 <COND (<NOT ,DOCKED?> <TELL "What artifact?" CR>)
 	       (<VERB? EXAMINE FIND>
 		<COND (,IN-ARTIFACT? <TELL "It's all around!" CR>)
-		      (ELSE <TELL "It's right here.!" CR>)>)>>
+		      (ELSE <TELL "It's right here!" CR>)>)>>
 
 <GLOBAL SUIT-ON? <>>
 
