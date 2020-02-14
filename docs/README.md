@@ -20,7 +20,7 @@ The following sources provide further information on Starcross:
 
 ## Version History
 
-| Release | Serial | Type | Story File                 | Zarf Sources        | Historical Sources |
+| Release | Serial | Type | Story File                 | Obsessive Sources   | Historical Sources |
 | -------:|:------:|:----:|:--------------------------:|:-------------------:|:------------------:|
 |      15 | 820901 |  PUB | [starcross-r15-s820901.z3] | [starcross-r15.zip] |      [revision 15] |
 |      17 | 821021 |  PUB | [starcross-r17-s821021.z3] |                   - |                  - |
