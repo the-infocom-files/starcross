@@ -20,13 +20,11 @@ The following sources provide further information on Starcross:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Starcross listed in the Infocom Fact Sheet. It also holds the source files for versions 15/820901 and 18/830114.
-
-| Release | Serial | Story File                 | Zarf Sources        | Historical Sources |
-| -------:|:------:|:--------------------------:|:-------------------:|:------------------:|
-|      15 | 820901 | [starcross-r15-s820901.z3] | [starcross-r15.zip] |      [revision 15] |
-|      17 | 821021 | [starcross-r17-s821021.z3] |                   - |                  - |
-|      18 | 830114 | [starcross-r18-s830114.z3] | [starcross-r18.zip] |   [final revision] |
+| Release | Serial | Type | Story File                 | Zarf Sources        | Historical Sources |
+| -------:|:------:|:----:|:--------------------------:|:-------------------:|:------------------:|
+|      15 | 820901 |  PUB | [starcross-r15-s820901.z3] | [starcross-r15.zip] |      [revision 15] |
+|      17 | 821021 |  PUB | [starcross-r17-s821021.z3] |                   - |                  - |
+|      18 | 830114 |  FIN | [starcross-r18-s830114.z3] | [starcross-r18.zip] |   [final revision] |
 
 [starcross-r15-s820901.z3]: https://eblong.com/infocom/gamefiles/starcross-r15-s820901.z3
 [starcross-r15.zip]: https://eblong.com/infocom/sources/starcross-r15.zip
