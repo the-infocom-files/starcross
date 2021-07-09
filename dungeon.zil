@@ -1002,7 +1002,7 @@ for the blue docking area) below, and also a way up.")
       (EAST TO RED-THREE)
       (WEST TO YELLOW-THREE)
       (FLAGS RLANDBIT ONBIT)
-      (GLOBAL BLUE-INNER PLANTERS LADDER)>
+      (GLOBAL BLUE-INNER PLANTERS STAIRS)>
 
 <ROOM BLUE-FOUR
       (IN ROOMS)
@@ -1069,7 +1069,7 @@ The airlock for the yellow dock is down from here. The plant boxes are empty.")
       (EAST TO BLUE-THREE)
       (WEST TO VILLAGE-NE-EDGE)
       (FLAGS RLANDBIT)
-      (GLOBAL YELLOW-INNER PLANTERS LADDER)>
+      (GLOBAL YELLOW-INNER PLANTERS STAIRS)>
 
 <ROOM YELLOW-FOUR
       (IN ROOMS)

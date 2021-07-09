@@ -332,8 +332,8 @@ currently enabled.\"" CR>)>)>>
 		       <TELL
 "You see the green dock, and the stars wheeling by above." CR>)>)>>
 
-<ROUTINE V-THROUGH ("OPTIONAL" (OBJ <>) "AUX" M)
-	#DECL ((OBJ) <OR OBJECT FALSE> (M) <PRIMTYPE VECTOR>)
+<ROUTINE V-THROUGH ("OPTIONAL" (OBJ <>))
+	#DECL ((OBJ) <OR OBJECT FALSE>)
 	<COND (<AND <NOT .OBJ> <FSET? ,PRSO ,VEHBIT>>
 	       <PERFORM ,V?BOARD ,PRSO>
 	       <RTRUE>)
